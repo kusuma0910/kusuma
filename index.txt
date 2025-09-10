@@ -1,0 +1,8 @@
+<DOCTYPE! html>
+<head>
+<title>index</tile>
+</head>
+<body>
+<h1>kusuma</h1>
+</body>
+</html>
